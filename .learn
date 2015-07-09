@@ -4,3 +4,5 @@ tags:
   - database
 level: 3
 languages: python
+type:
+  - lab
