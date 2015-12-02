@@ -35,3 +35,5 @@ localhost:8000
   + Try adding print statements in main.py to see what function is being called when
   + Add CSS to make the UI better looking
 + Use this as a template for future work
+
+<a href='https://learn.co/lessons/cssi-8.2-database-example-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
