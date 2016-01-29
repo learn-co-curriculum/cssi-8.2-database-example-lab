@@ -36,4 +36,4 @@ localhost:8000
   + Add CSS to make the UI better looking
 + Use this as a template for future work
 
-<a href='https://learn.co/lessons/cssi-8.2-database-example-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-8.2-database-example-lab' title='Database Intro Student Example'>Database Intro Student Example</a> on Learn.co and start learning to code for free.</p>
